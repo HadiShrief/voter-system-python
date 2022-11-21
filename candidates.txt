@@ -1,0 +1,3 @@
+Cand001: Fadi_Bezri, Beirut, 0
+Cand002: Zeina_Saab, Mount Lebanon, 0
+Cand003: Loay_Shaito, Beqaa, 0
